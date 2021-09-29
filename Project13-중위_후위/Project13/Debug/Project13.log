@@ -1,0 +1,4 @@
+﻿  중위_후위변환.cpp
+c:\users\이유빈\desktop\자료구조 과제\project13-중위_후위\project13\중위_후위변환.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이유빈\desktop\자료구조 과제\project13-중위_후위\project13\중위_후위변환.cpp(101): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project13.vcxproj -> C:\Users\이유빈\Desktop\자료구조 과제\Project13-중위_후위\Debug\Project13.exe

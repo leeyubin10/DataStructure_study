@@ -1,0 +1,5 @@
+﻿  후위표기식_계산.cpp
+c:\users\이유빈\desktop\자료구조 과제\project14-중위_후위_계산\project14\후위표기식_계산.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이유빈\desktop\자료구조 과제\project14-중위_후위_계산\project14\후위표기식_계산.cpp(111): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이유빈\desktop\자료구조 과제\project14-중위_후위_계산\project14\후위표기식_계산.cpp(142): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project14.vcxproj -> C:\Users\이유빈\Desktop\자료구조 과제\Project14-중위_후위_계산\Debug\Project14.exe
